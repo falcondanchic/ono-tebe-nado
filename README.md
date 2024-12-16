@@ -1,1 +1,1 @@
-https://github.com/falcondanchic/ono-tebe-nado/tree/main
+https://github.com/falcondanchic/ono-tebe-nado-fd
